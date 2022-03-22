@@ -1,1 +1,1 @@
-Software carpentry cource from ARCHER2.
+Software carpentry course from ARCHER2.
